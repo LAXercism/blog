@@ -10,9 +10,12 @@ together to make improvements on Exercism.io and other open source projects.
 
 As a community we have all learned a lot through exercism
 and want to give back while comtinuing to learn together by working 
-on issues. We are happy to help Katrina Owens in this way as a think you
+on  open source issues. We are happy to help Katrina Owens in this way as a thank you
 for all of her hard work, effort, clarity of code and comments.
 
 [L.A. Ruby & Rails Women](http://www.meetup.com/Los-Angeles-Womens-Ruby-on-Rails-Group/)   
 [L.A.Ruby](http://www.meetup.com/laruby/)  
 [Fullstack](http://www.meetup.com/la-fullstack/)
+
+https://help.github.com/articles/creating-project-pages-manually/
+
